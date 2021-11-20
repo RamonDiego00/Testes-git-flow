@@ -1,4 +1,8 @@
 body{
     color: white;
     background-color: tomato;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 30px;
 }
