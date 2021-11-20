@@ -5,7 +5,9 @@ body{
     margin: 0;
 }
 h1 {
+    margin-top: 200px;
     font-size: 50px;
+    text-align: end;
 }
 
 label{
